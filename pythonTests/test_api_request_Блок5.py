@@ -1,4 +1,4 @@
-from api_request import ApiRequest
+from api_request_Блок5 import ApiRequest
 
 request_type = "GET"
 payload = {"param1": "value1", "param2": "value2"}
